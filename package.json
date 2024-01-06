@@ -2,5 +2,8 @@
   "devDependencies": {
     "turbo": "^1.11.3",
     "wrangler": "^3.22.3"
+  },
+  "scripts": {
+    "dev": "turbo dev"
   }
 }
